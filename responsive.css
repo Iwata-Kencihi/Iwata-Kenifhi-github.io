@@ -1,0 +1,61 @@
+/*ipoad pro用*/
+@media(max-width: 1400px ) {
+  .bg-color {
+    width:100%;
+  }
+  .w-girl {
+    position: absolute;
+    left:20px;
+
+  }
+  .l-girl {
+    width: 500px;
+    height: 502px;
+  }
+
+  .header-list li {
+    font-size: 30px;
+  }
+}
+
+@media(max-width: 420px ) {
+  .top-wrapper h1 {
+    line-height: 90px;
+  }
+
+  .main {
+    padding:80px 10px;
+    width: 100%;
+  }
+  .contents-wrapper h3 {
+    font-size: 30px;
+    padding-bottom: 50px;
+  }
+
+  .maru-ki {
+    width:80%;
+    height: 80%;
+  }
+
+  .w-girl {
+    width: 300px;
+    height: 400px;
+  }
+  .l-girl {
+    width: 340px;
+    height: 340px;
+    position: absolute;
+    top: 450px;
+    left: 5%;
+  }
+  .header-list li {
+    display: none;
+  }
+
+  .menu-icon {
+    display: block!important;
+    color: white;
+    float: right;
+    font-size: 40px;
+  }
+}
