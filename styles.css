@@ -111,6 +111,10 @@ padding-bottom: 20px;
 }
 
 .contents-item img:hover {
+  -webkit-transform: rotateX(200deg);
+  -moz-transform: rotateX(200deg)
+  -ms-transform: rotateX(200deg);
+  -o-transform: rotateX(200deg);
   transform: rotateX(200deg);
   cursor: pointer;
   transition: all 1s;
