@@ -113,6 +113,7 @@ padding-bottom: 20px;
 .contents-item img:hover {
   transform: rotateX(200deg);
   cursor: pointer;
+  transition: all 1s;
 }
 
 .maruki {
