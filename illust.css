@@ -122,6 +122,7 @@ padding-bottom: 20px;
 .contents-item img {
   display: inline-block;
   border-radius:0;
+  box-shadow: 5px 5px 50px black;
 }
 
 .contents-item img:hover {
