@@ -185,6 +185,7 @@ input,textarea {
 /*footer*/
 
 
+
 footer {
   height: 100px;
   background-color: gray;
@@ -201,6 +202,7 @@ footer {
 
 .footer-list li {
   float: right;
+  padding-right: 15px;
 }
 
 .btn {
@@ -221,14 +223,9 @@ footer {
 
 .facebook {
   background-color: rgba(16,52,166,0);
-  margin-right: 10px;
   padding:3px 10px;
 }
 
 .facebook:hover {
   background-color: rgb(16,52,166);
-}
-
-.top {
-  padding-right: 10px;
 }
